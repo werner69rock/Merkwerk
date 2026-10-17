@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "title": "Probe am 24.10.",
+      "text": "Lerne diese Woche extra für die Probe. Jeden Tag gibt es Bonus-Flammen!",
+      "start": "2026-10-17",
+      "end": "2026-10-24",
+      "bonusFlames": 2,
+      "minCorrect": 15
+    }
+  ]
+}
