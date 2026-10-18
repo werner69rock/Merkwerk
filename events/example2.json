@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "title": "Test am 18.11.",
+      "text": "Die nächste Probe kommt, jetzt wieder extra lernen!",
+      "start": "2026-11-11",
+      "end": "2026-11-18",
+      "bonusFlames": 5,
+      "minCorrect": 15
+    }
+  ]
+}
