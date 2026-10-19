@@ -6,7 +6,7 @@
       "start": "2026-11-11",
       "end": "2026-12-30",
       "bonusFlames": 0,
-      "minCorrect": 15
+      "minCorrect": 5
     }
   ]
 }
