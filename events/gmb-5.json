@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "title": "Aktuell keine Probe",
+      "text": "",
+      "start": "2026-11-11",
+      "end": "",
+      "bonusFlames": 0,
+      "minCorrect": 5
+    }
+  ]
+}
