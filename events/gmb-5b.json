@@ -3,8 +3,8 @@
     {
       "title": "Aktuell keine Probe",
       "text": "",
-      "start": "2026-11-11",
-      "end": "2026-12-31",
+      "start": "2026-10-11",
+      "end": "",
       "bonusFlames": 0,
       "minCorrect": 10000
     }
