@@ -1,0 +1,11 @@
+{
+  "lists": [
+    {
+      "title": "Unit 1 – Beispiel",
+      "file": "unit-1.csv",
+      "frontLabel": "Deutsch",
+      "backLabel": "Englisch",
+      "text": "Zehn Beispielwörter zum Ausprobieren"
+    }
+  ]
+}
